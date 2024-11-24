@@ -52,9 +52,7 @@ npm run dev
 
 ## 📱 Vista Previa
 
-<div align="center">
-  Link del proyecto: [Vista Previa del Juego](https://poke-api-mu-three.vercel.app/)
-</div>
+[Link del proyecto:](https://poke-api-mu-three.vercel.app/)
 
 ## 🎮 Cómo Jugar
 
