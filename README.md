@@ -27,8 +27,8 @@
 1. **Clona el repositorio**
 
 ```bash
-git clone https://github.com/tu-usuario/pokemon-quiz-vue
-cd pokemon-quiz-vue
+git clone https://github.com/FideoKojima/PokeApi
+cd PokeApi
 ```
 
 2. **Instala las dependencias**
@@ -53,7 +53,7 @@ npm run dev
 ## 📱 Vista Previa
 
 <div align="center">
-  <img src="/api/placeholder/800/400" alt="Vista previa del juego">
+  Link del proyecto: [Vista Previa del Juego](https://poke-api-mu-three.vercel.app/)
 </div>
 
 ## 🎮 Cómo Jugar
@@ -97,21 +97,9 @@ pokemon-quiz-vue/
 4. Push a la Branch (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
-
-## 🎨 Inspiración
-
-Este proyecto está inspirado en los intermedios comerciales del anime Pokémon, donde se retaba a los espectadores a identificar Pokémon por sus siluetas.
-
-<div align="center">
-  <img src="/api/placeholder/400/200" alt="Pokémon Anime Reference">
-</div>
-
 ## 📬 Contacto
 
-Tu Nombre - [@tuTwitter](https://twitter.com/tuTwitter)
+Luis Suarez - [@tuTwitter](https://twitter.com/tuTwitter)
 
 Link del proyecto: [https://github.com/tu-usuario/pokemon-quiz-vue](https://github.com/tu-usuario/pokemon-quiz-vue)
 
