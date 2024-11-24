@@ -64,7 +64,7 @@ npm run dev
 ## 🌳 Estructura del Proyecto
 
 ```
-pokemon-quiz-vue/
+PokeApi/
 ├── src/
 │   ├── components/
 │   │   └── PokemonCard.vue
