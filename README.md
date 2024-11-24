@@ -1,4 +1,4 @@
-# 🎮 ¿Quién es ese Pokémon? | Vue.js Game
+# 🎮 ¿Quién es ese Pokémon? |
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/25.png" width="150">
@@ -52,7 +52,7 @@ npm run dev
 
 ## 📱 Vista Previa
 
-[Link del proyecto:](https://poke-api-mu-three.vercel.app/)
+[Link del proyecto](https://poke-api-mu-three.vercel.app/)
 
 ## 🎮 Cómo Jugar
 
@@ -97,7 +97,7 @@ PokeApi/
 
 ## 📬 Contacto
 
-Luis Suarez - [📧 suarezluis.ea@gmail.com](mailto:suarezluis.ea@gmail.com)
+Luis Suarez - [📧 Gmail](mailto:suarezluis.ea@gmail.com)
 
 ---
 
