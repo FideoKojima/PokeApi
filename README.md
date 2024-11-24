@@ -97,7 +97,7 @@ PokeApi/
 
 ## 📬 Contacto
 
-Luis Suarez - [Gmail](suarezluis.ea@gmail.com)
+Luis Suarez - [📧 suarezluis.ea@gmail.com](mailto:suarezluis.ea@gmail.com)
 
 ---
 
