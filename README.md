@@ -99,9 +99,7 @@ pokemon-quiz-vue/
 
 ## 📬 Contacto
 
-Luis Suarez - [@tuTwitter](https://twitter.com/tuTwitter)
-
-Link del proyecto: [https://github.com/tu-usuario/pokemon-quiz-vue](https://github.com/tu-usuario/pokemon-quiz-vue)
+Luis Suarez - [Gmail](suarezluis.ea@gmail.com)
 
 ---
 
